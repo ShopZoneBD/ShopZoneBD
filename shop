@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ShopZone BD - Clothing Sell in Bangladesh</title>
+  <meta name="description" content="ShopZone BD sells all the products customers need across Bangladesh. We provide reliable clothing delivery services throughout the country.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #ffffff;
+      color: #333;
+    }
+
+    header {
+      background-color: #0057b8;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background-color: #003f88;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      text-decoration: none;
+      margin: 0 15px;
+      font-weight: bold;
+    }
+
+    .section {
+      padding: 40px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    .hero {
+      background-color: #e6f0ff;
+      text-align: center;
+      padding: 60px 20px;
+    }
+
+    .services, .contact {
+      background-color: #f4faf
